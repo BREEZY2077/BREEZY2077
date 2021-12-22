@@ -1,10 +1,4 @@
 
-### 服务端
-
-fork 之后 ，在dashboard，选择 new project
-
-然后选中本仓库
-
 ### 客户端
 * **务必替换所有的`xxx.xxxxx.xxx`为railway分配的项目域名**  
 * **务必替换所有的`24b4b1e1-7a89-45f6-858c-242cf53b5bdb`为部署时设置的UUID,建议更改**  
